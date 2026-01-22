@@ -1,4 +1,7 @@
 ## Hi there 👋
+I have no idea what I'm doing, but the code compiles (mostly).
+Documenting my journey from "Hello World" to actual software.
+Check out my messy progress in the repos below!
 
 <!--
 **Anand2k29/Anand2k29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
