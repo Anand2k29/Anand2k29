@@ -3,7 +3,7 @@
 - 🤷‍♂️ **I have no idea what I'm doing**, but the code compiles (mostly).
 - 🚀 **Documenting my journey** from "Hello World" to actual software.
 
-  [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/AnandMinejes/)   [<img src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=lindedln&logoColor=white" />](https://www.linkedin.com/in/hello-anand-minejes/)
+  [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/AnandMinejes/)   [<img src="https://img.shields.io/badge/Linkedln-0077B5?style=for-the-badge&logo=lindedln&logoColor=white" />](https://www.linkedin.com/in/hello-anand-minejes/)
 <!--
 **Anand2k29/Anand2k29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
