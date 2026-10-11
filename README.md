@@ -6,6 +6,8 @@
   [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/AnandMinejes/)    [<img src="https://img.shields.io/badge/Linkedln-0077B5?style=for-the-badge&logo=lindedln&logoColor=white" />](https://www.linkedin.com/in/hello-anand-minejes/)    [<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/anandminejes12)
 <!--
 **Anand2k29/Anand2k29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=Anand2k29&color=blue)
 
 Here are some ideas to get you started:
 
